@@ -1,0 +1,1 @@
+module.exports.ReservedSeating = require('./ReservedSeating.js');

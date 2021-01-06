@@ -1,0 +1,10 @@
+{
+    "license": "CPAL-1.0",
+    "name": "@mindpowered/reservedseating",
+    "version": "0.0.2",
+    "description": "ReservedSeating",
+    "main": "index.js",
+    "dependencies": {
+        "@mindpowered/maglev": "*"
+    }
+}
